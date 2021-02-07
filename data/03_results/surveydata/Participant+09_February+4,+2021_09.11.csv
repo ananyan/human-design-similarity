@@ -1,0 +1,92 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,141516,011517,040214,180203,090810,090713,020005,QID25,040614,100117,040018,110014,020915,080205,QID32,140515,060517,030408,051219,011519,140016,QID39,020112,040614-1,020005-1,011519-1,100117-1,020112-1,030408-1,140515-1,QID48,141516-1,180203-1,040018-1,060517-1,090810-1,110014-1,QID55,080205-1,051219-1,090713-1,020915-1,140016-1,040214-1,QID62,011517-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Quick Grip Vise
+
+Function: Humans position the object and secure it by applying force to clamp it.","Alcohol Detector
+
+Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","All-in-one Printer
+
+Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data.",Please briefly explain why you selected the product to be more similar.,"Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.","All-in-one Printer
+
+Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.",Please briefly explain why you selected the product to be more similar.,"Quick Grip Vise
+
+Function: Humans position the object and secure it by applying force to clamp it.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","Alcohol Detector
+
+Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.","Quick Grip Vise
+
+Function: Humans position the object and secure it by applying force to clamp it.",Please briefly explain why you selected the product to be more similar.,"All-in-one Printer
+
+Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data.","Blower/Vacuum
+
+Function: Import air and debris and expel air","All-in-one Printer
+
+Function: Transform paper","Alcohol Detector
+
+Function: Measure alcohol","Power Razor
+
+Function: Separate hair from human","All-in-one Printer
+
+Function: Transform paper","Bike
+
+Function: Transfer human","Quick Grip Vise
+
+Function: Secure solid",Please briefly explain why you selected the product to be more similar.,"Quick Grip Vise
+
+Function: Secure solid","Water Pump
+
+Function: Move liquid","Blower/Vacuum
+
+Function: Import air and debris and expel air","Drink Cooler
+
+Function: Transfer thermal energy","Game Controller
+
+Function: Control computer","Stapler
+
+Function: Couple paper",Please briefly explain why you selected the product to be more similar.,"Nerf Gun
+
+Function: Export ammo","CD Player
+
+Function: Read a CD","Game Controller
+
+Function: Control computer","All-in-one Printer
+
+Function: Transform paper","Quick Grip Vise
+
+Function: Secure solid","Blower/Vacuum
+
+Function: Import air and debris and expel air",Please briefly explain why you selected the product to be more similar.,"Alcohol Detector
+
+Function: Measure alcohol",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-03 18:55:54,2021-02-03 19:09:40,0,98.42.48.224,100,826,1,2021-02-03 19:09:41,R_3MzjFLurBCAlzmq,,,,,37.9844970703125,-122.135498046875,email,EN,1,15,17,2,2,10,7,5,"Functionality relating to humans providing input that is transferred to electrical energy to complete a task seems more similar than the pressurized air propelling a plane. Additionally, the printer and cd player both remain statically positioned in relation to the environment during usage.",6,17,18,14,9,5,Functionality of cd player and nerf gun are both more related to pleasure through some sort of noise related action.,15,5,8,19,19,0,Both require human actions that turn into some sort of mechanical translational motion.,1,6,5,19,1,1,4,5,CD player secures a CD similar to how a vise secures a solid.,16,2,18,5,8,14,"Both stapler and vise grip force objects together. ",2,19,7,9,16,2,Blower/vacuum and printer both create some sort of change to the objects that they are performing actions upon.,15,1,,Mechanical Engineering,B.S.,Sophomore (2nd Year),,,,,"High school robotics team, various engineering/design classes (Eng 25, Eng 26, ME C85, etc.), CalSol, Undergraduate Research (mechanical design related)",2,19,1,2,4,bgyang@berkeley.edu

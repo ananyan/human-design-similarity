@@ -1,0 +1,375 @@
+[[AdvancedFormat]]
+[[Question:DB]]
+The task will begin on the next page.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100108]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Measure alcohol</center>
+[[Choice:08]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Export ammo</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:010814]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Measure alcohol</center>
+[[AdvancedChoices]]
+[[Choice:08]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Export ammo</center>
+[[Choice:14]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Secure solid</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:180212]]
+<center><strong>Water Pump</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0N7cUF1hRBUgyKW" style="height:150px !important;"><br>Function: Move liquid</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Transform paper</center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Emit sound for entertainment</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:140204]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Secure solid</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Transform paper</center>
+[[Choice:04]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Import air and debris and expel air</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:190213]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Read a zip disk</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Transform paper</center>
+[[Choice:13]]
+<center><strong>Lawn Mower</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cNIDxF2tHdlG9y6" style="height:150px !important;"><br>Function: Separate grass from ground</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100511]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Read a CD</center>
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Couple paper</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:131112]]
+<center><strong>Lawn Mower</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cNIDxF2tHdlG9y6" style="height:150px !important;"><br>Function: Separate grass from ground</center>
+[[AdvancedChoices]]
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Couple paper</center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Emit sound for entertainment</center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030210]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Transfer human</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Transform paper</center>
+[[Choice:10]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:180107]]
+<center><strong>Water Pump</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0N7cUF1hRBUgyKW" style="height:150px !important;"><br>Function: Move liquid</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Measure alcohol</center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Read a DVD</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:081117]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Export ammo</center>
+[[AdvancedChoices]]
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Couple paper</center>
+[[Choice:17]]
+<center><strong>Vise Grip</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5pA9LPPszohtlQO" style="height:150px !important;"><br>Function: Secure solid</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030507]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Transfer human</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Read a CD</center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Read a DVD</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:040719]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Import air and debris and expel air</center>
+[[AdvancedChoices]]
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Read a DVD</center>
+[[Choice:19]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Read a zip disk</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:160304]]
+<center><strong>VHS Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3fR4FhIr82jD82O" style="height:150px !important;"><br>Function: Read a VHS tape</center>
+[[AdvancedChoices]]
+[[Choice:03]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Transfer human</center>
+[[Choice:04]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Import air and debris and expel air</center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100007]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[AdvancedChoices]]
+[[Choice:00]]
+<center><strong>Toy Plane</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5uJ3InAtF0kjHsG" style="height:150px !important;"><br>Function: Provide motion for entertainment</center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Read a DVD</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100114]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Measure alcohol</center>
+[[Choice:14]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Secure solid</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100203]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Transform paper</center>
+[[Choice:03]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Transfer human</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:190612]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Read a zip disk</center>
+[[AdvancedChoices]]
+[[Choice:06]]
+<center><strong>Drink Cooler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cI94U4QdozyK8FE" style="height:150px !important;"><br>Function: Transfer thermal energy</center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Emit sound for entertainment</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030516]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Transfer human</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Read a CD</center>
+[[Choice:16]]
+<center><strong>VHS Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3fR4FhIr82jD82O" style="height:150px !important;"><br>Function: Read a VHS tape</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:110917]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Couple paper</center>
+[[AdvancedChoices]]
+[[Choice:09]]
+<center><strong>Game Controller</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bOv53T3gvs8Ivps" style="height:150px !important;"><br>Function: Control computer</center>
+[[Choice:17]]
+<center><strong>Vise Grip</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5pA9LPPszohtlQO" style="height:150px !important;"><br>Function: Secure solid</center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:091011]]
+<center><strong>Game Controller</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bOv53T3gvs8Ivps" style="height:150px !important;"><br>Function: Control computer</center>
+[[AdvancedChoices]]
+[[Choice:10]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Separate hair from human</center>
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Couple paper</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:040719]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.</center>
+[[AdvancedChoices]]
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.</center>
+[[Choice:19]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100511]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat. </center>
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise. </center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030516]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat. </center>
+[[Choice:16]]
+<center><strong>VHS Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3fR4FhIr82jD82O" style="height:150px !important;"><br>Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject. </center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:091011]]
+<center><strong>Game Controller</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bOv53T3gvs8Ivps" style="height:150px !important;"><br>Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller. </center>
+[[AdvancedChoices]]
+[[Choice:10]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise. </center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:081117]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.</center>
+[[AdvancedChoices]]
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise. </center>
+[[Choice:17]]
+<center><strong>Vise Grip</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5pA9LPPszohtlQO" style="height:150px !important;"><br>Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100108]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.</center>
+[[Choice:08]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:190612]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.</center>
+[[AdvancedChoices]]
+[[Choice:06]]
+<center><strong>Drink Cooler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cI94U4QdozyK8FE" style="height:150px !important;"><br>Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.</center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.</center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:010814]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.</center>
+[[AdvancedChoices]]
+[[Choice:08]]
+<center><strong>Nerf Gun</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9NvodztnvQEsJoy" style="height:150px !important;"><br>Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.</center>
+[[Choice:14]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Humans position the object and secure it by applying force to clamp it. </center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100203]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data. </center>
+[[Choice:03]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:131112]]
+<center><strong>Lawn Mower</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cNIDxF2tHdlG9y6" style="height:150px !important;"><br>Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes. </center>
+[[AdvancedChoices]]
+[[Choice:11]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise. </center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030507]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.</center>
+[[AdvancedChoices]]
+[[Choice:05]]
+<center><strong>CD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d9XorvfabHMAGFM" style="height:150px !important;"><br>Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat. </center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100007]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[AdvancedChoices]]
+[[Choice:00]]
+<center><strong>Toy Plane</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5uJ3InAtF0kjHsG" style="height:150px !important;"><br>Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.</center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:100114]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.</center>
+[[Choice:14]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Humans position the object and secure it by applying force to clamp it. </center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:160304]]
+<center><strong>VHS Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3fR4FhIr82jD82O" style="height:150px !important;"><br>Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject. </center>
+[[AdvancedChoices]]
+[[Choice:03]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.</center>
+[[Choice:04]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:030210]]
+<center><strong>Bike</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVT7DiX6oOPVItE" style="height:150px !important;"><br>Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data. </center>
+[[Choice:10]]
+<center><strong>Power Razor</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CyljF5jBoKn7NA" style="height:150px !important;"><br>Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:140204]]
+<center><strong>Quick Grip Vise</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0c6TnX9zLLUu54a" style="height:150px !important;"><br>Function: Humans position the object and secure it by applying force to clamp it. </center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data. </center>
+[[Choice:04]]
+<center><strong>Blower/Vacuum</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CU7htC15A0g7d4" style="height:150px !important;"><br>Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:180107]]
+<center><strong>Water Pump</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0N7cUF1hRBUgyKW" style="height:150px !important;"><br>Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.</center>
+[[AdvancedChoices]]
+[[Choice:01]]
+<center><strong>Alcohol Detector</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3xXWoRLTmTeQg1E" style="height:150px !important;"><br>Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.</center>
+[[Choice:07]]
+<center><strong>DVD Player</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQWuvS7BC29ZiXc" style="height:150px !important;"><br>Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:180212]]
+<center><strong>Water Pump</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0N7cUF1hRBUgyKW" style="height:150px !important;"><br>Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data. </center>
+[[Choice:12]]
+<center><strong>Hulk Hands</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3JzNpslYlphpHoy" style="height:150px !important;"><br>Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.</center>
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:110917]]
+<center><strong>Stapler</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3CwuejTVbndegkK" style="height:150px !important;"><br>Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise. </center>
+[[AdvancedChoices]]
+[[Choice:09]]
+<center><strong>Game Controller</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bOv53T3gvs8Ivps" style="height:150px !important;"><br>Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller. </center>
+[[Choice:17]]
+<center><strong>Vise Grip</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5pA9LPPszohtlQO" style="height:150px !important;"><br>Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.</center>
+[[Question:TE:Essay]]
+Please briefly explain why you selected the product to be more similar.
+[[PageBreak]]
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:190213]]
+<center><strong>Zip Disk Drive</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e3hr3iKQmYHcbHw" style="height:150px !important;"><br>Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.</center>
+[[AdvancedChoices]]
+[[Choice:02]]
+<center><strong>All-in-one Printer</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eh5C260bGH9Wkui" style="height:150px !important;"><br>Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data. </center>
+[[Choice:13]]
+<center><strong>Lawn Mower</strong><br><img src="https://berkeley.ca1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cNIDxF2tHdlG9y6" style="height:150px !important;"><br>Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes. </center>

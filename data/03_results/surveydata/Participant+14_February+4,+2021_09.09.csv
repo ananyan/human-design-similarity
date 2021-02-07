@@ -1,0 +1,92 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,110309,010708,080506,120615,040511,170006,120001,QID25,060817,101819,090308,180311,110217,180001,QID32,191213,080518,130618,100718,090608,140917,QID39,000516,110217-1,170006-1,090608-1,000516-1,090308-1,110309-1,100718-1,QID48,010708-1,130618-1,120001-1,180311-1,191213-1,080518-1,QID55,180001-1,060817-1,120615-1,101819-1,080506-1,140917-1,QID62,040511-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Stapler
+
+Function: Couple paper","Alcohol Detector
+
+Function: Measure alcohol","Nerf Gun
+
+Function: Export ammo","Hulk Hands
+
+Function: Emit sound for entertainment","Blower/Vacuum
+
+Function: Import air and debris and expel air","Vise Grip
+
+Function: Secure solid","Hulk Hands
+
+Function: Emit sound for entertainment",Please briefly explain why you selected the product to be more similar.,"Drink Cooler
+
+Function: Transfer thermal energy","Power Razor
+
+Function: Separate hair from human","Game Controller
+
+Function: Control computer","Water Pump
+
+Function: Move liquid","Stapler
+
+Function: Couple paper","Water Pump
+
+Function: Move liquid",Please briefly explain why you selected the product to be more similar.,"Zip Disk Drive
+
+Function: Read a zip disk","Nerf Gun
+
+Function: Export ammo","Lawn Mower
+
+Function: Separate grass from ground","Power Razor
+
+Function: Separate hair from human","Game Controller
+
+Function: Control computer","Quick Grip Vise
+
+Function: Secure solid",Please briefly explain why you selected the product to be more similar.,"Toy Plane
+
+Function: Provide motion for entertainment","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.","Vise Grip
+
+Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Toy Plane
+
+Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.",Please briefly explain why you selected the product to be more similar.,"Alcohol Detector
+
+Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.","Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.","Zip Disk Drive
+
+Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.",Please briefly explain why you selected the product to be more similar.,"Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.","Quick Grip Vise
+
+Function: Humans position the object and secure it by applying force to clamp it.",Please briefly explain why you selected the product to be more similar.,"Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-03 19:54:05,2021-02-03 20:05:36,0,136.152.143.155,100,690,1,2021-02-03 20:05:36,R_D0L6eak2PZiXzDb,,,,,37.87359619140625,-122.2570037841796875,email,EN,1,9,7,6,6,11,6,0,Both are entertaining objects.,8,18,8,3,2,1,Both deal with liquid in a certain way (water for the pump and breath for the alcohol detector). They are both also mechanical.,13,5,18,18,8,17,They have the same function.,16,2,6,8,16,8,9,18,They both use electrical energy to produce a mechanical outcome. The DVD player does this too but it is more entertainment-focused while the water pump is a product of utility.,8,18,0,3,13,18,Both are mechanical objects.,1,8,15,18,5,17,They have the same function.,5,1,,Mechanical Engineering,BS,1,,,,,"1st year mechanical engineer, I am In Calsol, and I have attended many engineering camps every summer of high school.",1,18,1,2,1,Evankaplan02@berkeley.edu

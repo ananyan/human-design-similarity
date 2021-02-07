@@ -1,0 +1,92 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,170708,100916,191718,021315,071216,051016,050312,QID25,190610,180406,160618,100518,080304,090314,QID32,130103,130012,010208,150018,120316,161319,QID39,060117,190610-1,050312-1,120316-1,180406-1,060117-1,010208-1,130103-1,QID48,170708-1,021315-1,160618-1,130012-1,071216-1,100518-1,QID55,090314-1,150018-1,051016-1,080304-1,161319-1,191718-1,QID62,100916-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Vise Grip
+
+Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.","Zip Disk Drive
+
+Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.","All-in-one Printer
+
+Function: Humans turn the printer on and insert paper. Print data is imported to the printer and then electrical energy is used to signal the printer to release the stored liquid ink. The ink changes the blank paper to the printed paper and the print status is displayed. A scanned document is converted to a signal and exported as scan data.","DVD Player
+
+Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.",Please briefly explain why you selected the product to be more similar.,"Zip Disk Drive
+
+Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.","Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.","VHS Player
+
+Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.",Please briefly explain why you selected the product to be more similar.,"Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.","Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.","Alcohol Detector
+
+Function: Humans turn on the device and blow into it. The device collects the breath sample and uses a chemical reaction to determine and display the alcohol level.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","VHS Player
+
+Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject.",Please briefly explain why you selected the product to be more similar.,"Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Zip Disk Drive
+
+Function: Read a zip disk","CD Player
+
+Function: Read a CD","Hulk Hands
+
+Function: Emit sound for entertainment","Water Pump
+
+Function: Move liquid","Drink Cooler
+
+Function: Transfer thermal energy","Alcohol Detector
+
+Function: Measure alcohol","Lawn Mower
+
+Function: Separate grass from ground",Please briefly explain why you selected the product to be more similar.,"Vise Grip
+
+Function: Secure solid","All-in-one Printer
+
+Function: Transform paper","VHS Player
+
+Function: Read a VHS tape","Lawn Mower
+
+Function: Separate grass from ground","DVD Player
+
+Function: Read a DVD","Power Razor
+
+Function: Separate hair from human",Please briefly explain why you selected the product to be more similar.,"Game Controller
+
+Function: Control computer","Scooter
+
+Function: Transfer human","CD Player
+
+Function: Read a CD","Nerf Gun
+
+Function: Export ammo","VHS Player
+
+Function: Read a VHS tape","Zip Disk Drive
+
+Function: Read a zip disk",Please briefly explain why you selected the product to be more similar.,"Power Razor
+
+Function: Separate hair from human",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-03 21:35:57,2021-02-03 21:51:07,0,169.229.22.221,100,909,1,2021-02-03 21:51:07,R_3NzeOU64FBlDA9R,,,,,37.87359619140625,-122.2570037841796875,email,EN,1,8,16,18,13,16,16,12,Both the Hulk Hands and the CD Player create an audio experience for the user based on user input.,6,6,18,18,4,3,Both the bike and the game controller have an aspect of controlling some motion and steering.,3,0,2,0,16,19,Both deal with the insertion of some package of information and the electrical reading of that information.,1,6,12,16,4,1,8,3,A human moves both of these in order to complete the assigned task. Both deal with movement.,8,13,6,0,16,18,Both deal with the movement of matter from one place to another.,3,0,16,4,19,18,"Both are electrical devices that deal with the movement of something, be it information or water. The vice grip locks down something.",16,1,,Mechanical Engineering,B.S.,4,,,,,"I am team lead for two engineering student organizations on campus, and I've taken many design courses.",1,21,1,2,"1,4",jcfarley99@gmail.com

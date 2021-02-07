@@ -1,0 +1,92 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,061213,030416,170712,160213,070318,091419,120819,QID25,150917,070508,150007,041119,030013,030616,QID32,180509,180809,050114,161418,120007,131114,QID39,061618,030013-1,091419-1,120007-1,061618-1,150007-1,061213-1,161418-1,QID48,030416-1,050114-1,120819-1,041119-1,180509-1,180809-1,QID55,030616-1,150917-1,160213-1,070508-1,170712-1,131114-1,QID62,070318-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Drink Cooler
+
+Function: Transfer thermal energy","Bike
+
+Function: Transfer human","Vise Grip
+
+Function: Secure solid","VHS Player
+
+Function: Read a VHS tape","DVD Player
+
+Function: Read a DVD","Game Controller
+
+Function: Control computer","Hulk Hands
+
+Function: Emit sound for entertainment",Please briefly explain why you selected the product to be more similar.,"Scooter
+
+Function: Transfer human","DVD Player
+
+Function: Read a DVD","Scooter
+
+Function: Transfer human","Blower/Vacuum
+
+Function: Import air and debris and expel air","Bike
+
+Function: Transfer human","Bike
+
+Function: Transfer human",Please briefly explain why you selected the product to be more similar.,"Water Pump
+
+Function: Move liquid","Water Pump
+
+Function: Move liquid","CD Player
+
+Function: Read a CD","VHS Player
+
+Function: Read a VHS tape","Hulk Hands
+
+Function: Emit sound for entertainment","Lawn Mower
+
+Function: Separate grass from ground",Please briefly explain why you selected the product to be more similar.,"Drink Cooler
+
+Function: Transfer thermal energy","Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","VHS Player
+
+Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject.",Please briefly explain why you selected the product to be more similar.,"Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.","Water Pump
+
+Function: Humans turn the pump on. Electrical energy is converted to mechanical energy and then to pressurized air within the pump, which moves the liquid. Heat, noise, and pressurized air are released.",Please briefly explain why you selected the product to be more similar.,"Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","VHS Player
+
+Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject.","DVD Player
+
+Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.","Vise Grip
+
+Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.","Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.",Please briefly explain why you selected the product to be more similar.,"DVD Player
+
+Function: Humans insert a DVD and turn on the player. Electrical energy is used to start mechanical rotation and the lens focuses electromagnetic energy (laser) on the moving disk to read it. The electromagnetic energy is changed to electrical energy, which is used to display the video and play audio. Buttons are used to control other actions such as pause and eject.",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-03 18:55:57,2021-02-03 19:14:14,0,135.180.43.155,100,1097,1,2021-02-03 19:14:15,R_3JrfzG4TtkLkeGG,,,,,37.8636932373046875,-122.2760009765625,email,EN,1,13,4,7,2,18,19,8,"The Nerf Gun is more similar to the hulk hands because it is also a toy used for entertainment purposes. Furthermore, they can both be seen as 'tools' used by a human hand compared to the zip disk drive.",17,5,7,19,13,16,"A bike is more similar to the VHS player because they can both be thought of as useful tools. The drink cooler also seems like a static product compared to the other two, which has moving mechanisms. ",5,9,1,18,0,14,"The stapler stands out more compared to the vise grip and the lawn mover. The stapler feels like a static office tool whereas the vise and the lawn mower feel like garage or shed tools. ",18,0,19,0,18,0,13,18,"The water pump is more similar to the VHS players because the main energy is not applied from the human but through electrical energy. For the vise grip, the main source of power is from the human. ",4,1,8,19,5,9,The game controller is more similar to the water pump than the nerf gun because they are both electrical devices.,6,17,2,5,12,11,The stapler seems more similar to the lawn mover because they appear to be more complex devices from their descriptions.,18,1,,Mechanical Engineering,B.S.,4,,,,,"Student project team, rapid prototyping and manufacturing, CAD, engineering classes",1,21,1,2,4,jasonx1223@gmail.com

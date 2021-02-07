@@ -1,0 +1,93 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,040810,120318,190614,030711,051112,000318,000507,QID25,030005,130116,190417,091518,091018,110213,QID32,040208,120510,131019,050017,110518,100406,QID39,000717,030005-1,000507-1,110518-1,130116-1,000717-1,131019-1,040208-1,QID48,040810-1,030711-1,190417-1,120510-1,051112-1,091518-1,QID55,110213-1,050017-1,000318-1,091018-1,100406-1,190614-1,QID62,120318-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Zip Disk Drive
+
+Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.","Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","Toy Plane
+
+Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.","Toy Plane
+
+Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.",Please briefly explain why you selected the product to be more similar.,"Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.","Zip Disk Drive
+
+Function: Humans turn on the reader and insert a zip disk, which is sensed and guided in. Electrical energy is converted to mechanical energy to rotate the disk and to actuate translation for the reading head. The magnetic energy from the disk is converted to electrical energy and is exported as data.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.",Please briefly explain why you selected the product to be more similar.,"Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Hulk Hands
+
+Function: Humans place their hands in the gloves. The gloves detect and process an electrical signal from human movement. The electrical signal is converted to noise.","Lawn Mower
+
+Function: Humans push the lawn mower to add translational motion and turn it on. Liquid fuel is stored and the chemical energy in it is converted to mechanical energy. The mechanical energy is used to cut the grass and expel the cut grass pieces. The lawn mower releases heat, noise, and fumes.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.","Power Razor
+
+Function: Humans provide translational motion to the razor over the surface of their skin through their hands. Electrical energy is converted to mechanical energy in the razor to cut the hair and separate it from the surface of the skin. The razor releases the cut hair, heat, and noise.",Please briefly explain why you selected the product to be more similar.,"Toy Plane
+
+Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.","Bike
+
+Function: Transfer human","Toy Plane
+
+Function: Provide motion for entertainment","Stapler
+
+Function: Couple paper","Lawn Mower
+
+Function: Separate grass from ground","Toy Plane
+
+Function: Provide motion for entertainment","Lawn Mower
+
+Function: Separate grass from ground","Blower/Vacuum
+
+Function: Import air and debris and expel air",Please briefly explain why you selected the product to be more similar.,"Blower/Vacuum
+
+Function: Import air and debris and expel air","Bike
+
+Function: Transfer human","Zip Disk Drive
+
+Function: Read a zip disk","Hulk Hands
+
+Function: Emit sound for entertainment","CD Player
+
+Function: Read a CD","Game Controller
+
+Function: Control computer",Please briefly explain why you selected the product to be more similar.,"Stapler
+
+Function: Couple paper","CD Player
+
+Function: Read a CD","Toy Plane
+
+Function: Provide motion for entertainment","Game Controller
+
+Function: Control computer","Power Razor
+
+Function: Separate hair from human","Zip Disk Drive
+
+Function: Read a zip disk",Please briefly explain why you selected the product to be more similar.,"Hulk Hands
+
+Function: Emit sound for entertainment",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-02 21:37:12,2021-02-02 21:37:17,1,,100,4,1,2021-02-02 21:37:17,R_2ANi1s8otwqgbuk,,,,,37.5625,-122.000396728515625,preview,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-02-03 18:50:55,2021-02-03 18:57:58,0,73.63.17.20,100,422,1,2021-02-03 18:57:58,R_1g6JumNuD80eRJc,,,,,40.6981048583984375,-111.99990081787109375,email,EN,1,8,3,6,7,11,3,5,"The CD and DVD player might as well be the same in my mind, so I chose the CD player as it is smaller. The function had no impact on my decision",0,1,4,18,18,2,Both are office products,8,5,19,0,18,6,Both are some sort of self / cosmetic / consumer product. The blower is not,17,0,5,18,16,7,19,8,"The nerf gun expels some sort of dart, which the blower expels air. They are the closest related, since the printer does none of these things.",8,11,4,5,12,18,The pump and controller both contain electronics.,2,0,3,18,6,6,Both the cooler and the disk drive contain electronics. The vice grip does not.,3,1,,Mechanical Engineering,B.S.,2,,,,,"I've worked a lot with robotics in the past, and have taken on a few engineering projects myself in the past. I don't have much experience with product design.",2,19,1,2,1,valentin.astie@berkeley.edu

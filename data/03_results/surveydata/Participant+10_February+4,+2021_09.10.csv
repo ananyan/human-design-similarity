@@ -1,0 +1,93 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,061114,170004,150314,000610,160204,080917,080714,QID25,051214,091517,060308,090104,040710,090208,QID32,030218,111517,040916,110212,151214,141115,QID39,150608,040710-1,080917-1,151214-1,150608-1,060308-1,061114-1,110212-1,QID48,170004-1,040916-1,080714-1,090104-1,030218-1,111517-1,QID55,090208-1,051214-1,000610-1,091517-1,150314-1,141115-1,QID62,160204-1,Q7,Q7_5_TEXT,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q8,Q5,Q4,Q10,Q9,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your participation in this research is voluntary. You have the right to withdraw at any point during the study. You can contact ananyan@berkeley.edu with any questions or concerns. Below you can find the detailed consent form.
+
+ 
+
+Consent Form
+
+
+
+By clicking the button below, you acknowledge that you are 18 years of age or above, have read the consent form, and agree to take part in this research.","Drink Cooler
+
+Function: Transfer thermal energy","Vise Grip
+
+Function: Secure solid","Scooter
+
+Function: Transfer human","Toy Plane
+
+Function: Provide motion for entertainment","VHS Player
+
+Function: Read a VHS tape","Nerf Gun
+
+Function: Export ammo","Nerf Gun
+
+Function: Export ammo",Please briefly explain why you selected the product to be more similar.,"CD Player
+
+Function: Read a CD","Game Controller
+
+Function: Control computer","Drink Cooler
+
+Function: Transfer thermal energy","Game Controller
+
+Function: Control computer","Blower/Vacuum
+
+Function: Import air and debris and expel air","Game Controller
+
+Function: Control computer",Please briefly explain why you selected the product to be more similar.,"Bike
+
+Function: Transfer human","Stapler
+
+Function: Couple paper","Blower/Vacuum
+
+Function: Import air and debris and expel air","Stapler
+
+Function: Couple paper","Scooter
+
+Function: Transfer human","Quick Grip Vise
+
+Function: Secure solid",Please briefly explain why you selected the product to be more similar.,"Scooter
+
+Function: Transfer human","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Drink Cooler
+
+Function: Humans place the device on a surface and places a cup on top. Electrical energy is used to start mechanical rotation of a fan and extract heat. The fan expels air and the heat is transferred out.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.",Please briefly explain why you selected the product to be more similar.,"Vise Grip
+
+Function: Humans position the object and secure it by applying force, changing its status from unclamped to clamped.","Blower/Vacuum
+
+Function: Humans turn on the device and electrical energy is used to signal the blower or vacuum setting. Air is expelled in the blower setting. An air and debris mixture is taken in and the debris are stored in the vacuum setting.","Nerf Gun
+
+Function: Humans load the ammo, pump air into the gun, and pull a mechanical trigger. The pressurized air causes translational motion of the ammo and the gun emits noise.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Bike
+
+Function: Humans pedal to provide mechanical energy for translational motion to transport themselves.","Stapler
+
+Function: Humans store staples in the stapler. Paper is positioned between the top and bottom housing of the stapler and force is applied to the top housing by the hand. The staple is separated from other staples and couples the sheets of paper together. The stapler releases the stapled pages and noise.",Please briefly explain why you selected the product to be more similar.,"Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","CD Player
+
+Function: Humans insert a CD and turn on the player. Electrical energy is used to start mechanical rotation of the CD and the lens focuses electromagnetic energy (laser) on the moving disk to read it and play the relevant audio. Buttons are used to control other actions such as pause and repeat.","Toy Plane
+
+Function: Humans pump pressurized air into the plane and throw it to give the plane translational motion. The propellors rotate.","Game Controller
+
+Function: Humans push mechanical buttons or directional joysticks to actuate an electric signal. The electric signal is turned into a control signal that sends data to the connected electronic device as well as into electromagnetic energy (light) and mechanical vibration on the controller.","Scooter
+
+Function: Humans provide or stop translational motion to transport themselves.","Quick Grip Vise
+
+Function: Humans position the object and secure it by applying force to clamp it.",Please briefly explain why you selected the product to be more similar.,"VHS Player
+
+Function: Humans turn on the player insert the tape, which is sensed and then guided in. Electrical energy is used mechanically translate the tape and then to start mechanical rotation of the wheels. The magnetic tape reel is read and encoded into video and audio signals, which are played.  Electrical energy is also converted to electromagnetic energy (light) to indicate the status. Buttons are used to control other signals such as stop and eject.",Select the answer that best describes you - Selected Choice,Select the answer that best describes you - Other - Text,"What is your major, program, and year? - Major","What is your major, program, and year? - Program (e.g. B.S.)","What is your major, program, and year? - Year in program",What is your role/title and background? - Role/title,What is your role/title and background? - Degree (e.g. B.S.),What is your role/title and background? - Major,What is your role/title and background? - Graduation year,"Briefly describe your experience in engineering and design. Experience may be in the form of work, classes, or extracurriculars.",How many years of engineering/design experience do you have?,What is your age?,What is your gender identity?,"Are you Spanish, Hispanic, or Latino?",Choose one or more races you consider yourself to be,Email Address (we will use this email to send you the Amazon gift card)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1711227630""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_TEXT""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID7""}","{""ImportId"":""QID7_5_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID9""}","{""ImportId"":""QID3_TEXT""}"
+2021-02-03 18:54:27,2021-02-03 19:18:44,0,107.208.193.28,100,1456,1,2021-02-03 19:18:49,R_5yCLNlKwiU6iTGp,,,,,33.8578033447265625,-117.786895751953125,email,EN,1,14,4,3,10,2,9,14,They both feature similar shape,14,15,3,1,7,2,"Both products take digital input and transforms it into another useful forms of output signal.
+",18,17,16,2,12,11,The function of both products is to hold something in between. Let it be irregular shape of solids or pieces of paper.,6,10,9,14,8,8,11,2,"Both products improve the efficiency for people to organize paper ",4,9,7,4,18,17,Both product can be used to clamp things together,2,12,6,17,3,11,Both products function to hold an object in place and secure the object in one piece,2,1,,Mechanical Engineering,B.S.,2,,,,,"Solar Vehicle Design, Aerospace internships, ME upp div classes",2,19,1,2,4,ronaldo.zhang@berkeley.edu
